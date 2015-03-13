@@ -1,0 +1,10 @@
+# Development temporary files
+*~
+/TAGS
+
+# CMake/CTest temporary files
+/Debug/
+/Release/
+
+# Keep this as it contains what CMake needs to run
+!/CMakeLists.txt
